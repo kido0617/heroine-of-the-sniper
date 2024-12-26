@@ -235,7 +235,14 @@ footer img {
 
 }
 
+.broadcast p {
+	line-height: 1.5;
+}
 
+.broadcast .info {
+	margin-top: 20px;
+	font-size: 20px;
+}
 
 .license {
 	margin: auto;
